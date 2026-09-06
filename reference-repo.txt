@@ -1,0 +1,47 @@
+https://github.com/DietrichGebert/ponytail
+
+https://github.com/rtk-ai/rtk
+
+https://github.com/JuliusBrussee/caveman
+
+Generic Skills: https://www.skills.sh/
+
+
+
+Skills to install:
+
+https://www.aihero.dev/skills-grill-with-docs
+
+so I can get /grill-with-docs
+
+/to-spec
+
+/to-tickets
+
+/implement
+
+/thermo-nuclear-code-quality-review
+
+/improve-codebase-architecture
+
+
+Gives you a really good basic flow. 
+
+Also:
+
+https://www.aihero.dev/skills-improve-codebase-architecture
+
+and 
+
+https://www.aihero.dev/skills-diagnosing-bugs
+
+swapping out the code review skill
+
+https://github.com/cursor/plugins/blob/main/cursor-team-kit/skills/thermo-nuclear-code-quality-review/SKILL.md
+
+
+Ex: run a refinement check with /improve-codebase-architecture and /thermo-nuclear-code-quality-review
+
+Lets also try the improve skill with plans: https://github.com/shadcn/improve
+
+Using codex or claude to write the plan and then using thor128 to execute the plan or something faster.
